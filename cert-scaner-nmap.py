@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+#
+# under root
+# pip3.8 install --user python3-nmap
+# pip3.8 install --user pyopenssl
+#
+
 from nmap3 import NmapScanTechniques
 import nmap3
 import OpenSSL
